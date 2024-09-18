@@ -1,10 +1,10 @@
 Main Repo Dataset: https://github.com/kennedyk1/MID-3K
 
 <table>
-    <tr><td colspan="2" align="center"><b>Sensor Info</b></td></tr>
-    <tr><td>Sensor</td><td><em>LiDAR OUSTER OS1-64-U</em></td></tr>
-    <tr><td>Vertical Resolution</td><td><em>64 channels</em></td></tr>
-    <tr><td>Horizontal Resolution</td><td><em>2048 points</em></td></tr>
+    <tr><td colspan="2" align="center"><b>Camera Info</b></td></tr>
+    <tr><td>Model</td><td><em>FLIR BOSON 640 LWIR</em></td></tr>
+    <tr><td>Type</td><td><em>LWIR (longwave infrared)</em></td></tr>
+    <tr><td>Resolution</td><td><em>640x512 pixels</em></td></tr>
     <tr><td colspan="2" align="center"><b>Scene Details</b></td></tr>
     <tr><td>University</td><td><em>University of Coimbra, Polo II Campus</em></td></tr>
     <tr><td>Departments</td><td><em>DEEC and DEI</em></td></tr>
